@@ -16,4 +16,4 @@ Privacy policies and legal documents for apps published by **n-hgc**.
 
 ---
 
-For inquiries, contact: [nhgc36@gmail.com](mailto:nhgc36@gmail.com)
+For inquiries, please use the [contact form](https://forms.gle/9KxrB2wHoNntRdCw5).

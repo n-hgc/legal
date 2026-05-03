@@ -61,6 +61,6 @@ If we update this Privacy Policy, the new version will be reflected in a future 
 
 ## Contact
 
-If you have any questions about this Privacy Policy, please reach out:
+If you have any questions about this Privacy Policy, please reach out via our contact form:
 
-**Email:** nhgc36@gmail.com
+[https://forms.gle/9KxrB2wHoNntRdCw5](https://forms.gle/9KxrB2wHoNntRdCw5)
