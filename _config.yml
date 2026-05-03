@@ -1,0 +1,11 @@
+title: n-hgc — App Legal
+description: Privacy policies and legal documents for apps published by n-hgc.
+permalink: pretty
+theme: minima
+markdown: kramdown
+
+# Hide template files from generated site
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
