@@ -25,6 +25,7 @@ Privacy policies and legal documents for apps published by **n-hgc**, served via
 ## Apps Included
 
 - **Ikura — Daily Budget** ([en](./ikura/privacy-policy-en.md) / [ja](./ikura/privacy-policy-ja.md))
+- **MarkyMD — Markdown Viewer for macOS** ([en](./marky/privacy-policy-en.md) / [ja](./marky/privacy-policy-ja.md))
 
 ## Local Preview
 
