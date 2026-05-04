@@ -61,6 +61,6 @@ Ikura はすべての年齢層にご利用いただけます。13歳未満のお
 
 ## お問い合わせ
 
-本ポリシーに関するご質問は以下のフォームよりお寄せください：
+本ポリシーに関するご質問は以下の Discord サーバーよりお寄せください：
 
-[https://forms.gle/9KxrB2wHoNntRdCw5](https://forms.gle/9KxrB2wHoNntRdCw5)
+[https://discord.gg/PHd53vDMeG](https://discord.gg/PHd53vDMeG)

@@ -61,6 +61,6 @@ If we update this Privacy Policy, the new version will be reflected in a future 
 
 ## Contact
 
-If you have any questions about this Privacy Policy, please reach out via our contact form:
+If you have any questions about this Privacy Policy, please reach out via our Discord server:
 
-[https://forms.gle/9KxrB2wHoNntRdCw5](https://forms.gle/9KxrB2wHoNntRdCw5)
+[https://discord.gg/PHd53vDMeG](https://discord.gg/PHd53vDMeG)
