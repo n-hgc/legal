@@ -18,6 +18,8 @@ Privacy policies and legal documents for apps published by **n-hgc**.
 
 - [Privacy Policy (English)](./marky/privacy-policy-en/)
 - [プライバシーポリシー（日本語）](./marky/privacy-policy-ja/)
+- [Support (English)](./marky/support-en/)
+- [サポート（日本語）](./marky/support-ja/)
 
 ---
 
